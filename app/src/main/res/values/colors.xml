@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="royalblue">#023E73</color>
+
+    <color name="charcoalblue">#010626</color>
+
+    <color name="curiousblue">#29A7D9</color>
+
+    <color name="matisse">#1E5B92</color>
+
+    <color name="light_gray">#838282</color>
+</resources>

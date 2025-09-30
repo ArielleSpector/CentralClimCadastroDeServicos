@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CentralClimCadastroDeServicos</string>
+    <string name="serv_title">Título do Serviço</string>
+    <string name="desc_text">Descrição Detalhada</string>
+    <string name="atr_tec">Atribuir ao Técnico</string>
+    <string name="tec_nome">Maria S.</string>
+    <string name="date">Data</string>
+    <string name="add_new">Adicionar Novo Serviço</string>
+    <string name="info">Preencha as informações abaixo</string>
+    <string name="hora">Hora</string>
+    <string name="btn_save">SALVAR</string>
+    <string name="btn_cancelar">CANCELAR</string>
+    <string name="tec_res">Técnico Responsável</string>
+    <string name="atr_cli">Atribuir ao Cliente</string>
+    <string name="res_cli">Cliente Responsável</string>
+
+
+</resources>
